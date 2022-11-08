@@ -1,0 +1,6 @@
+function shouldYield() {
+}
+
+function schedulerCallback() {
+
+}

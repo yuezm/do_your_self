@@ -1,0 +1,6 @@
+function workLoop() {
+}
+
+function shcedulerCallbackOnFiber() {
+
+}
